@@ -22,7 +22,7 @@ Pads U2 and U4 remain unconnected.
 Many thanks to Xiden for providing the pinout of the original compete.com link cable!
 
 ## PCB
-The PCB is 4 layer and should be ordered with ENIG.
+The PCB is 4 layer and should be ordered with ENIG and 1.0 mm width.
 
 ## Shell STL
 The STL files for the shell can be found inside the STL folder.
