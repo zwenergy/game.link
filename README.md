@@ -26,8 +26,10 @@ The PCB is 4 layer and should be ordered with ENIG.
 
 ## Shell STL
 The STL files for the shell can be found inside the STL folder.
-I'm not 100% happy with the design/fit, but it's working.
+I'm not 100% happy with the design/fit, but it's working for me.
 Anybody who is eager tweak it is obviously welcome to improve it :) .
+
+![Shell](./res/model.PNG "Shell")
 
 ## Disclaimer
 **Use the files to build your own link cable at your own risk**.
